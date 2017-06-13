@@ -15,7 +15,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.idea
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 
